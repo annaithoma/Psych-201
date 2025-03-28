@@ -81,7 +81,6 @@
 | Decisions from description  (social) | age (12-22) | 34,200 | [Link](https://bpb-us-e1.wpmucdn.com/sites.harvard.edu/dist/b/261/files/2023/02/Braams_et_al-2018-Developmental_Science.pdf) |
 | N-back | age 18-80) | 24,800 | [Link](https://academic.oup.com/psychsocgerontology/article/78/1/40/6761668?login=false) |
 | Motivated encoding paradigm | age (8-25) | 34,176 | [Link](https://github.com/hartleylabnyu/reward_memories_influence_learning?tab=readme-ov-file) |
-| Repeated risky choice | age (3-X) | data available upon request | [Link](https://pubmed.ncbi.nlm.nih.gov/39631217/) |
 | Risky choice | depression (G) | 10,080 | [Link](https://www.cambridge.org/core/journals/psychological-medicine/article/abs/hyperresponsivity-to-losses-in-the-anterior-insula-during-economic-choice-scales-with-depression-severity/AA03DC9771C2EA53FBF67A208F49697D) |
 | Probabilistic reward learning | depression (G) | 5,520 | [Link](https://cpsyjournal.org/articles/10.1162/CPSY_a_00024) |
 | Non-stationary bandit | anxiety (G) | 52,800 | [Link](https://www.nature.com/articles/s41562-019-0628-0) |
